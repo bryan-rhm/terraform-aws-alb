@@ -62,4 +62,4 @@ No modules.
 
 | Name | Description |
 |------|-------------|
-| <a name="output_output"></a> [output](#output\_output) | ALB object |
+| <a name="output_output"></a> [output](#output\_output) | alb, http and https listeners attributes |
